@@ -1,1 +1,2 @@
 # Juazeiro
+typing http requests
