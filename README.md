@@ -1,0 +1,2 @@
+# Juazeiro
+typing http requests
