@@ -1,2 +1,2 @@
 # Juazeiro
-typing http requests
+Make http requests easily
